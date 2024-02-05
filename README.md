@@ -16,8 +16,7 @@
    </ul>
   <li>🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘... </li>
    <ul>
-     <li>😼 Adopt a Bombay cat.</li>
-     <li>🪂 Parachuting, hopefully in France.</li>
+     <li>😼 Adopt a Bombay cat and a Persian Cat.</li>
    </ul>
 </ul> 
 
