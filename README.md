@@ -3,7 +3,7 @@
  <ul>
   <li>🖥 Upcoming s𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 and creative 𝚒𝚍𝚎𝚊𝚜</li>
   <li>🎨 Fairly good at sketching and line art</li>
-  <li>🏓 Love playing long tennis and badminton</li>
+  <li>🏓 Love playing tennis and badminton</li>
   <li>🎓 Studying Artificial Intelligence and Machine Learning at Dayanada Sagar University, Karnataka, India.</li>
 </ul> 
 
