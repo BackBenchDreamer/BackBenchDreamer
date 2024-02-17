@@ -17,7 +17,7 @@
    </ul>
   <li>🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘... </li>
    <ul>
-     <li>😼 Adopt a Bombay cat and a Persian Cat.</li>
+     <li>😼 Adopt both a Bombay and a Persian Cat.</li>
    </ul>
 </ul> 
 
