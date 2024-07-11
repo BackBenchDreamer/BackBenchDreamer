@@ -13,7 +13,7 @@
   <li>🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...</li>
    <ul>
      <li>🎨 Learning oil piants</li>
-     <li>👾 Diving into the wondererous world of Front End Development.</li>
+     <li>👾 Diving into the wondererous world of Full-Stack Development.</li>
    </ul>
   <li>🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘... </li>
    <ul>
