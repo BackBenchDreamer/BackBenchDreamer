@@ -58,7 +58,19 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 
 ## 📊 GitHub Stats: 
-![](https://github-readme-stats.vercel.app/api?username=BackBenchDreamer&theme=gotham&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=BackBenchDreamer&theme=gotham&hide_border=false)<br/>
+<div style="display: flex; align-items: flex-start;">
+
+  <div style="flex: 1; margin-right: 10px;">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BackBenchDreamer&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Top Languages" />
+  </div>
+
+  <div style="flex: 1; margin-left: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=BackBenchDreamer&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BackBenchDreamer&theme=gotham&hide_border=false" alt="GitHub Streak" />
+  </div>
+
+</div>
+
 
 ## 🌐 Socials:
 - [![LeetCode](https://img.shields.io/badge/LeetCode-%23F9C24E.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/backbenchdreamer/) [LeetCode Profile](https://leetcode.com/u/backbenchdreamer/)
