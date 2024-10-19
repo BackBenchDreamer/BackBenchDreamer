@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BackBenchDreamer&color=blueviolet&style=for-the-badge&base=280" alt="BackBenchDreamer" /> </p>
 
+<img  align="right" src="LIFE.gif" width="200">
 <div style="display: flex; justify-content: space-between;">
-
   <div style="flex: 1; margin-right: 10px;">
-    <h2>📖 About Me</h2>
+    <h2 >📖 About Me</h2>
     <ul>
       <li>🖥 Enthusiastic coder with a passion for problem-solving.</li>
       <li>🎓 Currently learning Full-Stack Development.</li>
