@@ -1,26 +1,31 @@
-# Hey! Nice to see you. 👋🏼
+<h1 align="center">Hi 👋, I'm Jeyadheep Velayutham</h1>
+<h3 align="center">A passionate ML developer from India</h3>
 
-## 📖 About Me!
-<ul>
-  <li>🖥 Upcoming software developer with bold and creative ideas.</li>
-  <li>🎨 Passionate about sketching and line art.</li>
-  <li>🏋️‍♂️ Committed to maintaining my physical well-being.</li>
-  <li>🎓 Studying Artificial Intelligence and Machine Learning at Dayananda Sagar University, Karnataka, India.</li>
-</ul>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BackBenchDreamer&color=blueviolet&style=for-the-badge&base=280" alt="BackBenchDreamer" /> </p>
 
-## ⬆ What I'm Up To!
-<ul>
-  <li>🔨 I'm currently...</li>
+<div style="display: flex; justify-content: space-between;">
+
+  <div style="flex: 1; margin-right: 10px;">
+    <h2>📖 About Me</h2>
     <ul>
-      <li>🎨 Learning oil paints.</li>
-      <li>👾 Diving into the wondrous world of Full-Stack Development.</li>
+      <li>🖥 Enthusiastic coder with a passion for problem-solving.</li>
+      <li>🎓 Currently learning Full-Stack Development.</li>
+      <li>📚 Focused on mastering Data Structures & Algorithms.</li>
+      <li>🚀 Active participant in hackathons.</li>
+      <li>🎨 Love for algorithms and art.</li>
+      <li>✏️ Proficient in portrait, architectural, and nature sketching.</li>
     </ul>
-  <li>🤞 One day I hope to...</li>
+  </div>
+
+  <div style="flex: 1; margin-left: 10px;">
+    <h2>⬆ Currently Learning</h2>
     <ul>
-      <li>😼 Adopt a Persian Cat.</li>
-      <li>⛩️ Experience Tokyo's Night Life.</li>
+      <li>🔨 Exploring oil painting.</li>
+      <li>💻 Practicing coding challenges on LeetCode.</li>
     </ul>
-</ul>
+  </div>
+
+</div>
 
 ---
 
@@ -52,7 +57,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats: 
 ![](https://github-readme-stats.vercel.app/api?username=BackBenchDreamer&theme=gotham&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=BackBenchDreamer&theme=gotham&hide_border=false)<br/>
 
 ## 🌐 Socials:
