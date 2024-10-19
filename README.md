@@ -24,7 +24,7 @@
 
 ---
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -52,7 +52,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BackBenchDreamer&theme=gotham&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=BackBenchDreamer&theme=gotham&hide_border=false)<br/>
 
 ## 🌐 Socials:
