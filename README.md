@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeyadheep Velayutham</h1>
 <h3 align="center">A passionate ML developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BackBenchDreamer&color=blueviolet&style=for-the-badge&base=280" alt="BackBenchDreamer" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BackBenchDreamer&color=blueviolet&style=for-the-badge&" alt="BackBenchDreamer" /> </p>
 
 <img  align="right" src="LIFE.gif" width="200">
 <div style="display: flex; justify-content: space-between;">
