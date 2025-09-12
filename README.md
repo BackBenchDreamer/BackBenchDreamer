@@ -8,20 +8,21 @@
   <div style="flex: 1; margin-right: 10px;">
     <h2 >📖 About Me</h2>
     <ul>
-      <li>🖥 Enthusiastic coder with a passion for problem-solving.</li>
-      <li>🎓 Currently learning Full-Stack Development.</li>
-      <li>📚 Focused on mastering Data Structures & Algorithms.</li>
-      <li>🚀 Active participant in hackathons.</li>
-      <li>🎨 Love for algorithms and art.</li>
-      <li>✏️ Proficient in portrait, architectural, and nature sketching.</li>
+     <li>🖥 Code wrangler, bug whisperer, and occasional stack overflow poet.</li>
+     <li>🎓 Currently learning Full-Stack Development (because front-end and back-end deserve equal love... and equal frustration).</li>
+     <li>📚 On a lifelong quest to understand Data Structures & Algorithms, or at least pretend convincingly.</li>
+     <li>🚀 Hackathon participant: fueled by caffeine, curiosity, and the hope that the WiFi holds up.</li>
+     <li>🎨 Algorithms and art, because sometimes code is just abstract painting with more semicolons.</li>
+     <li>✏️ Sketches portraits, architecture, and nature. If only my code could look as good as my drawings.</li>
     </ul>
   </div>
 
   <div style="flex: 1; margin-left: 10px;">
     <h2>⬆ Currently Learning</h2>
-    <ul>
-      <li>🔨 Exploring oil painting.</li>
-      <li>💻 Practicing coding challenges on LeetCode.</li>
+    <ul style="list-style:none; text-align:left; display:inline-block;">
+     <li>🔨 Oil painting: for when pixels just aren't messy enough.</li>
+     <li>💻 LeetCode challenges: because who doesn't love a good existential crisis at 2am?</li>
+     <li>🌐 Cloud, DevOps, and modern JS frameworks—because I need more things to learn!</li>
     </ul>
   </div>
 
@@ -30,35 +31,29 @@
 ---
 
 ## 💻 Tech Stack:
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white) 
-![Node.js](https://img.shields.io/badge/node.js-%2300B48B.svg?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Windows](https://img.shields.io/badge/windows-%230078D7.svg?style=for-the-badge&logo=windows&logoColor=white) 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-%2300B48B.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=gsap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sentry-%234E5EE4.svg?style=for-the-badge&logo=sentry&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</div>
 
 ## 📊 GitHub Stats: 
-<div style="display: flex; align-items: flex-start;">
-
-  <div style="flex: 1; margin-right: 10px;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BackBenchDreamer&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Top Languages" />
-  </div>
-
-  <div style="flex: 1; margin-left: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=BackBenchDreamer&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BackBenchDreamer&theme=gotham&hide_border=false" alt="GitHub Streak" />
-  </div>
-
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://streak-stats.demolab.com?user=BackBenchDreamer&theme=tokyonight&hide_border=true" alt="BackBenchDreamer's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BackBenchDreamer&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="BackBenchDreamer's GitHub Stats" />
 </div>
 
 
